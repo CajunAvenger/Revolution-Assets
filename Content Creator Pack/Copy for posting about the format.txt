@@ -1,0 +1,4 @@
+Revolution is a rotating, custom constructed Standard-power-level format comprised of 7 custom Magic: the Gathering sets.
+To join the Custom Magic Discord and visit the Revolution community, go to https://discord.gg/custommagic/
+Use our Scryfall-alike, Manifesto, to check out everything in the format: https://revolution-manifesto.herokuapp.com
+New to the format? Visit the Compendium to see the format staples: https://lackeybot.com/rev/compendium
