@@ -2455,10 +2455,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/Him
-	special_text:
-		[+1]: <margin:130:0:0>Target opponent reveals all the cards in their hand except one. You choose a card revealed this way. That player discards that card.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Destroy target creature unless its controller sacrifices two other creatures.</margin:130:0:0>
-		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of your end step, draw two cards unless target opponent sacrifices two creatures or pays 6 life.”</margin:130:0:0>
 	name: Foug, Indulgent Broker
 	casting_cost: 2BB
 	image: image251
@@ -2490,6 +2486,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+	special_text:
+		[+1]: <margin:130:0:0>Target opponent reveals all the cards in their hand except one. You choose a card revealed this way. That player discards that card.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Destroy target creature unless its controller sacrifices two other creatures.</margin:130:0:0>
+		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of your end step, draw two cards unless target opponent sacrifices two creatures or pays 6 life.”</margin:130:0:0>
 card:
 	has_styling: true
 	styling_data:
@@ -4834,11 +4834,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/They
-	special_text:
-		[+2]: <margin:130:0:0>Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.</margin:130:0:0>
-		[-1]: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
-		[-4]: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
-		[-10]: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
 	name: Karn, Heart of Guilt
 	casting_cost: 4CCCC
 	image: image256
@@ -4874,6 +4869,11 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+	special_text:
+		[+2]: <margin:130:0:0>Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
+		[-4]: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
+		[-10]: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
 card:
 	has_styling: true
 	styling_data:
@@ -5284,10 +5284,6 @@ card:
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
-	special_text:
-		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Luma, Guiding Star</nospellcheck></atom-cardname> deals 1 damage to any target. If a creature is dealt damage this way, it can’t attack or block until your next turn.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Create three 1/1 white Nomad creature tokens with <kw-a><nospellcheck>vigilance</nospellcheck></kw-a>, then <kw-0><nospellcheck>journey</nospellcheck></kw-0> three times.</margin:130:0:0>
-		[-6]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Luma</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Guiding Star deals 20 damage to target creature or planeswalker. Your life total becomes equal to your starting life total.</margin:130:0:0>
 	name: Luma, Guiding Star
 	casting_cost: 3RW
 	image: image258
@@ -5317,6 +5313,10 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+	special_text:
+		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Luma, Guiding Star</nospellcheck></atom-cardname> deals 1 damage to any target. If a creature is dealt damage this way, it can’t attack or block until your next turn.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create three 1/1 white Nomad creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, then <kw-0><nospellcheck><key>journey</key></nospellcheck></kw-0> three times.</margin:130:0:0>
+		[-6]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Luma</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Guiding Star deals 20 damage to target creature or planeswalker. Your life total becomes equal to your starting life total.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
